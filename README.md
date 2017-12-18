@@ -1,3 +1,12 @@
+# Abstract
+this respository is forked from [cafffe_faster_rcnn_renet]( https://github.com/Enia
+c-Xie/caffe-fast-rcnn.git), thanks for Eniac-Xie
+
+Now I want to do:
+1. implement FPN(Feature Pyramid Network)
+2. Test on VOC
+3. Test on COCO
+
 # Faster-RCNN-ResNet
 
 This code extends [py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn) by adding ResNet implementation
